@@ -40,4 +40,3 @@ function createTask() {
 
     taskInput.value = "";
 }
->>>>>>> 077e5bcd008354e9974e307af4a2dba40fdbc413
